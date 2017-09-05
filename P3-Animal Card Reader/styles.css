@@ -1,0 +1,46 @@
+.heading {
+       font-weight: bold;
+}
+h3{
+
+font-size:200%;
+/*margin-left: 20px;*/
+
+}
+.outdiv{
+	width:300px;
+	border:3px solid grey;
+	margin:auto;
+	padding:15px;
+	box-shadow:5px 5px 1px 1px grey;
+
+
+}
+#image {
+	width:300px;
+	/*padding-top: -10px;
+	margin:auto;
+	padding: 15px;*/
+}
+body{
+	font-family: "Times New Roman",Serif;
+}
+#about{
+	font-style: italic;
+}
+li{
+	list-style-type: none;
+	margin-left:-38px;
+}
+.indiv{
+	text-align:justify;
+	padding-left: 3px;
+	padding-right: 3px;
+	border:1px solid grey;
+	padding:8px;
+}
+#describe{
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: justify;
+}
