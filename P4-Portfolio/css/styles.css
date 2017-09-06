@@ -1,0 +1,22 @@
+body {
+ font-weight: 300;
+    background-color: #CECDCD;
+}
+
+h1 {
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 110px;
+}
+
+.logo {
+	margin-top: 20px;
+}
+
+h3 {
+	font-family: 'Jim Nightshade', cursive;
+}
+
+#footer {
+	margin-top: 1px;
+	margin-bottom: 20px
+}
